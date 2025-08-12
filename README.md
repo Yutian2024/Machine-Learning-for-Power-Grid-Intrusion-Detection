@@ -4,7 +4,7 @@ Teamwork on some DNN and non-DL applications on an EPIC dataset
 ## Members
 Yutian Mei yt.mei@mail.utoronto.ca  
 Gabriel Chan gab.chan@mail.utoronto.ca  
-Yujie Qin yujie.qin@mail.utoronto.ca
+Yujie Qin yujie.qin@mail.utoronto.ca  
 Zhengmao Ouyang zhengmao.ouyang@mail.utoronto.ca
 
 ## Abstract
