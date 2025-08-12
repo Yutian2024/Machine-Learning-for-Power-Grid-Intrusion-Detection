@@ -20,3 +20,9 @@ most of the non-NN models performed similarly or better than the DNN. Still,
 current studies provide support for the efficiency of the DNN. Future work should
 look to further optimize the DNN model via a more comprehensive approach to
 designing, tuning, and training.
+
+## Dataset link
+[https://github.com/smartgridadsc/EPIC_Attack_Datasets/blob/main/dataset_raw/dataset_EPICA_raw.csv]
+
+## Reference Paper link
+[https://ieeexplore.ieee.org/document/10738043]
