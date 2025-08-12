@@ -1,5 +1,5 @@
 # Machine Learning for Power Grid Intrusion Detection
-Teamwork on some DNN and non-DL applications on an EPIC dataset
+Teamwork on DNN and non-DL applications for a multi-class classification task on an EPIC dataset.
 
 ## Members
 Yutian Mei yt.mei@mail.utoronto.ca  
